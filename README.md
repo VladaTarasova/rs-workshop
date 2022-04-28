@@ -35,9 +35,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
  101. First list item
       - First nested list item
         - Second nested list item
+![5  Белый тигренок](https://user-images.githubusercontent.com/88935116/165747013-36bc3e88-5400-45a8-85f0-d9b3f05d83b7.jpg)
           - Third nested list item
             - Fourth nested list item
-      - Fifth nested list item
+ ![6  Жираф](https://user-images.githubusercontent.com/88935116/165747047-89fe7e32-d69f-4ee0-9261-5f2048c07ec4.jpg)
+     - Fifth nested list item
       - Sixth nested list item
 
 @github/support What do you think about these updates?
