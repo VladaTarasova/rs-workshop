@@ -1,2 +1,9 @@
 **# _rs-workshop_**
 > Just do it
+Some `text` for it
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
